@@ -1,0 +1,8 @@
+beautifulsoup4
+requests
+nltk
+vaderSentiment
+gtts
+fastapi
+flask
+streamlit
