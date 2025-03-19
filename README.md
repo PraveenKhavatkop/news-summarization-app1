@@ -60,8 +60,13 @@ Live Demo
 
 ## Project Structure
 📂 news-summarization-app
+
 │-- app.py         # Main application file / Frontend
+
 │-- api.py         # API endpoints / Backend
+
 │-- utils.py       # Helper functions
+
 │-- requirements.txt  # Dependencies
+
 │-- README.md      # Project documentation
