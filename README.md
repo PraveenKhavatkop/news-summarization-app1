@@ -36,7 +36,7 @@ Installation
 
 ### Clone the repository:
 
-git clone https://github.com/yourusername/news-summarization-app.git
+git clone https://github.com/PraveenKhavatkop/news-summarization-app1.git
 cd news-summarization-app
 
 ### Install dependencies:
