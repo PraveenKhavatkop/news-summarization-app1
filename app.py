@@ -34,7 +34,7 @@ if st.button("Fetch News"):
 
 ### HINDI TEXT-TO-SPEECH ###
 st.subheader("🔊 Enter Hindi Text for Speech")
-hindi_text = st.text_area("Enter Hindi text:", "यह एक उदाहरण पाठ है।")
+hindi_text = st.text_area("Enter Hindi text:", "टेस्ला के बारे में मुझे हिंदी में स्पष्टीकरण चाहिए!")
 
 if st.button("Generate Hindi Speech"):
     response = requests.post(f"{API_URL}/generate_tts/", json={"text": hindi_text})
